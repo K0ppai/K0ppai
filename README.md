@@ -1,5 +1,5 @@
 <h1 align="center">Hola👋😁, I'm Koppai</h1>
-<h3 align="center">A High Conscientious Full-stack Developer Who's Passionate For Personal Growth 🥇⚡</h3>
+<h3 align="center">A Highly Conscientious Full-stack Developer Who's Passionate For Personal Growth ⚡</h3>
 
 ![](./Full%20Stack%20Developer.png)
 
