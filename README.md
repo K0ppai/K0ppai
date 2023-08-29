@@ -8,7 +8,7 @@
   <img src="https://profile-counter.glitch.me/K0ppai/count.svg" />
 </p>
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m currently learning **Ruby**
 
 - 📫 How to reach me **psthu.koppai@gmail.com**
 
