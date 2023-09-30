@@ -8,7 +8,7 @@
   <img src="https://profile-counter.glitch.me/K0ppai/count.svg" />
 </p>
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 📫 How to reach me **psthu.koppai@gmail.com**
 
