@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next.js/TypeScript/Node.js/MongoDB**
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://koppai-v1-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at my [portfolio](https://koppai.vercel.app/)
 
 - 📫 How to reach me **psthu.koppai@gmail.com**
 
