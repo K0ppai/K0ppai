@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://koppai.vercel.app/)
 
-- 📫 How to reach me **psthu.koppai@gmail.com**
+- 📫 Connect with me [here](https://bento.me/koppai)
 
 - ⚡ Fun fact **I love working out, reading and meditation**
 ---
