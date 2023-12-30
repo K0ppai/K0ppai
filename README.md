@@ -8,7 +8,7 @@
   <img src="https://profile-counter.glitch.me/K0ppai/count.svg" />
 </p>
 
-- 🌱 I’m currently learning **Next.js/TypeScript/Node.js/MongoDB**
+- 🌱 I’m currently learning **Next.js/TypeScript/Express.js/MongoDB**
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://koppai.vercel.app/)
 
