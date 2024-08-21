@@ -8,7 +8,7 @@
   <img src="https://profile-counter.glitch.me/K0ppai/count.svg" />
 </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Cloud Services**
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://koppai.vercel.app/)
 
